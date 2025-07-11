@@ -1,0 +1,10 @@
+# Node modules
+**/node_modules/
+# Logs
+*.log
+# Build
+build/
+dist/
+# Environment variables
+Blog-Backend/.env
+.env 
